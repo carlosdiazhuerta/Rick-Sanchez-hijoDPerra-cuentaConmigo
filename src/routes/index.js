@@ -9,7 +9,7 @@ import getData from '../utils/getData';
 
 // Define las rutas de la aplicación
 const routes = {
-    '/': Home,
+    '/dist/index.html': Home,
     '/:id': Character,
     '/contact': 'Contact'
 }

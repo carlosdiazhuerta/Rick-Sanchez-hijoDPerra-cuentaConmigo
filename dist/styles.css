@@ -142,9 +142,9 @@ body.dark .nav-element{
   border-radius: 5px;
   margin: 0 0 20px 0;
   display: block;
-  animation-duration: 2s;
+  animation-duration: 2.5s;
   animation-name: fade;
-  transition: .3s ease all;
+  transition: .4s ease all;
 }
 
 body.dark .characters-item {
@@ -201,7 +201,7 @@ body.dark .characters-card {
 
 .characters-card img {
   width: 100%;
-  height: auto;
+  height: 100%;
   border-radius: 5px 5px 0 0;
 }
 
@@ -224,7 +224,7 @@ body.dark .characters-card {
   border-radius: 50%;
   width: 20px;
   height: 20px;
-  animation: spin 2s linear infinite;
+  animation: spin 1s linear infinite;
 }
 
 /* ERROR 404 */
