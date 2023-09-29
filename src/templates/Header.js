@@ -4,7 +4,7 @@ const Header = () => {
     const view = `
         <header class="header-main">
             <div class="header-logo">
-                <a href="/public/index.html"><img src="https://i.imgur.com/7utDxm8.png" alt="Rick and Morty"></a>
+                <a href="/dist/index.html"><img src="https://i.imgur.com/7utDxm8.png" alt="Rick and Morty"></a>
             </div>
             <nav class="header-nav">
                 <a href="#/about/" class="nav-element">About</a>
